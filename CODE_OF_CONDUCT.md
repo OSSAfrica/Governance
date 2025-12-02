@@ -175,7 +175,7 @@ This Code of Conduct is a living document that may be updated to reflect the evo
 1. Submitted via pull request to this repository
 2. Reviewed by the Core Team and community members
 3. Subject to a public comment period of at least 14 days
-4. Approved by [GOVERNANCE_BODY] before implementation
+4. Approved by OpenSSF BEAR before implementation
 
 Community members will be notified of any changes through official communication channels.
 
@@ -193,4 +193,4 @@ This Code of Conduct is adapted from widely adopted open source community standa
 
 ---
 
-*For questions about this Code of Conduct, please contact [CONDUCT_EMAIL] or refer to our community governance documentation.*
+*For questions about this Code of Conduct, please contact [operations@ossafrica.org] or refer to our community governance documentation.*
