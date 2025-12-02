@@ -22,9 +22,9 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 
 ## Timeframe & Version
 
-**Roadmap Period:** Q1 2024 - Q4 2024  
+**Roadmap Period:** Q1 2025 - Q4 2025  
 **Version:** 1.0  
-**Last Updated:** [TODO: Insert Date]  
+**Last Updated:** 2nd December, 2025
 **Review Cadence:** Quarterly updates with community input
 
 ## Strategic Objectives
@@ -40,18 +40,18 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 
 | Milestone | Target | Description | Owner | Dependencies | Success Criteria |
 |-----------|--------|-------------|-------|--------------|------------------|
-| Governance Framework v1.0 | Q1 2024 | Complete governance documentation | Core Team | Community feedback | Published docs/, approved by BEAR WG |
-| Discord Community Launch | Q1 2024 | Structured community platform | Core Team | Moderation guidelines | 100+ active members |
-| Chapter Formation Process | Q2 2024 | Standardized chapter establishment | OSSAfrica SIG | Governance framework | 3 chapters launched |
-| Security Workshop Series | Q2 2024 | Monthly educational sessions | Core Team | Content development | 50+ participants per session |
-| Contributor Onboarding System | Q2 2024 | Streamlined participation process | Core Team | Documentation complete | 25+ new contributors |
-| Website & Communications Hub | Q3 2024 | Public-facing information platform | [TODO: Assign Owner] | Content strategy | Live website, analytics |
-| Inaugural Virtual Conference | Q3 2024 | Community-wide gathering | Event Committee | Speaker recruitment | 200+ attendees |
-| Mentorship Program Launch | Q3 2024 | Structured guidance for contributors | Core Team | Mentor recruitment | 20+ mentor-mentee pairs |
-| Partnership Framework | Q4 2024 | Collaboration guidelines | OSSAfrica SIG | Legal review | 3+ strategic partnerships |
-| Annual Report & Planning | Q4 2024 | Community impact assessment | Core Team | Metrics collection | Published report |
-| Chapter Leadership Training | Q4 2024 | Capacity building for local leads | Core Team | Training materials | 10+ trained leaders |
-| Security Tooling Initiative | Q4 2024 | Community-developed resources | [TODO: Assign Owner] | Technical requirements | 2+ tools released |
+| Governance Framework v1.0 | Q1 2025 | Complete governance documentation | Core Team | Community feedback | Published docs/, approved by BEAR WG |
+| Discord Community Launch | Q1 2025 | Structured community platform | Core Team | Moderation guidelines | 100+ active members |
+| Chapter Formation Process | Q2 2025 | Standardized chapter establishment | OSSAfrica SIG | Governance framework | 3 chapters launched |
+| Security Workshop Series | Q2 2025 | Monthly educational sessions | Core Team | Content development | 50+ participants per session |
+| Contributor Onboarding System | Q2 2025 | Streamlined participation process | Core Team | Documentation complete | 25+ new contributors |
+| Website & Communications Hub | Q3 2025 | Public-facing information platform | [TODO: Assign Owner] | Content strategy | Live website, analytics |
+| Inaugural Virtual Conference | Q3 2025 | Community-wide gathering | Event Committee | Speaker recruitment | 200+ attendees |
+| Mentorship Program Launch | Q3 2025 | Structured guidance for contributors | Core Team | Mentor recruitment | 20+ mentor-mentee pairs |
+| Partnership Framework | Q4 2025 | Collaboration guidelines | OSSAfrica SIG | Legal review | 3+ strategic partnerships |
+| Annual Report & Planning | Q4 2025 | Community impact assessment | Core Team | Metrics collection | Published report |
+| Chapter Leadership Training | Q4 2025 | Capacity building for local leads | Core Team | Training materials | 10+ trained leaders |
+| Security Tooling Initiative | Q4 2025 | Community-developed resources | [TODO: Assign Owner] | Technical requirements | 2+ tools released |
 
 ## Initiatives & Workstreams
 
@@ -64,7 +64,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Contributor recognition programs
 
 **Owner:** Core Team  
-**Timeline:** Ongoing throughout 2024  
+**Timeline:** Ongoing throughout 2025  
 **KPIs:** Active Discord members, new contributor rate, retention metrics
 
 ### Governance & Operations
@@ -76,7 +76,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Regular governance reviews
 
 **Owner:** OSSAfrica SIG  
-**Timeline:** Q1-Q2 2024 foundation, ongoing refinement  
+**Timeline:** Q1-Q2 2025 foundation, ongoing refinement  
 **KPIs:** Document completion rate, community satisfaction scores
 
 ### Security & Tooling
@@ -88,7 +88,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Vulnerability disclosure processes
 
 **Owner:** [TODO: Assign Security Lead]  
-**Timeline:** Q2-Q4 2024  
+**Timeline:** Q2-Q4 2025  
 **KPIs:** Workshop attendance, tool adoption, security incidents resolved
 
 ### Education & Mentorship
@@ -100,7 +100,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Certification pathways
 
 **Owner:** Core Team  
-**Timeline:** Q2-Q4 2024  
+**Timeline:** Q2-Q4 2025  
 **KPIs:** Mentorship pairs formed, course completion rates, skill progression
 
 ### Events & Conferences
@@ -112,7 +112,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Event logistics systems
 
 **Owner:** [TODO: Form Event Committee]  
-**Timeline:** Q2-Q4 2024  
+**Timeline:** Q2-Q4 2025  
 **KPIs:** Event attendance, speaker diversity, participant satisfaction
 
 ### Partnerships & Funding
@@ -124,7 +124,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Grant application processes
 
 **Owner:** OSSAfrica SIG  
-**Timeline:** Q3-Q4 2024  
+**Timeline:** Q3-Q4 2025  
 **KPIs:** Partnership agreements signed, funding secured, sustainability metrics
 
 ### Website & Communications
@@ -136,7 +136,7 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 - Brand guidelines
 
 **Owner:** [TODO: Assign Communications Lead]  
-**Timeline:** Q1-Q3 2024  
+**Timeline:** Q1-Q3 2025  
 **KPIs:** Website traffic, social engagement, newsletter subscribers
 
 ## Deliverables & Artifacts
@@ -191,11 +191,11 @@ This roadmap outlines OSSAfrica's strategic priorities and milestones for establ
 ## Success Metrics & Measurement
 
 ### Quantitative KPIs
-- Discord active members: Target 500+ by Q4 2024
-- Country chapters launched: Target 5+ by Q4 2024
-- Contributors onboarded: Target 100+ by Q4 2024
-- Security workshops delivered: Target 12+ by Q4 2024
-- Events hosted: Target 6+ by Q4 2024
+- Discord active members: Target 500+ by Q4 2025
+- Country chapters launched: Target 5+ by Q4 2025
+- Contributors onboarded: Target 100+ by Q4 2025
+- Security workshops delivered: Target 12+ by Q4 2025
+- Events hosted: Target 6+ by Q4 2025
 
 ### Qualitative KPIs
 - Community satisfaction scores (quarterly surveys)
