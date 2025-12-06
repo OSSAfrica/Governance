@@ -14,7 +14,7 @@ and the **Linux Foundation (LF)** - prioritizing transparency, fairness, opennes
 
 ## **Mission**
 
-To build a secure, collaborative, and thriving open source ecosystem across Africa by empowering contributors, security professionals, developers, and communities 
+To build a secure, collaborative, and thriving open source ecosystem across Africa by empowering contributors, security professionals, developers, and communities
 with education, tooling, mentorship, and sustainable governance.
 
 ## **Scope**
@@ -73,11 +73,14 @@ The repository is/should be organized as follows:
   discord-structure.md
   community-call-playbook.md
   roadmap.md
+  leadership-expectations.md
+  security.md
 /templates
   proposal-template.md
   charter-template.md
   role-description-template.md
   meeting-notes-template.md
+  weekly-leadership-check-in.md
 CONTRIBUTING.md
 LICENSE
 README.md
@@ -90,7 +93,7 @@ Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for instructions on proposing ch
 
 ## **Roadmap**
 
-A formal community roadmap will be maintained in `docs/operations/roadmap.md`.
+A formal community roadmap will be maintained in `docs/roadmap.md`.
 
 Initial focus areas include:
 
