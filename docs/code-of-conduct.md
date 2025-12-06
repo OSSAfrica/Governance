@@ -81,8 +81,8 @@ If you experience or witness unacceptable behavior, or have any other concerns a
 
 ### How to Report
 
-1. **Email:** Send a detailed report to [CONDUCT_EMAIL]
-2. **Online Form:** Submit a report via [REPORT_FORM_LINK]
+1. **Email:** Send a detailed report to <conduct@ossafrica.org>
+2. **Online Form:** Submit a report via <https://ossafrica.org/report>
 3. **Direct Contact:** Reach out to a Core Team member via private message on Discord
 
 ### Information to Include
@@ -106,7 +106,7 @@ When reporting an incident, please provide:
 
 ### Escalation
 
-If you are unsatisfied with the initial response or if the report involves a Core Team member, you may escalate the matter to [GOVERNANCE_BODY] via [ESCALATION_EMAIL].
+If you are unsatisfied with the initial response or if the report involves a Core Team member, you may escalate the matter to OSSAfrica SIG via <escalation@ossafrica.org>.
 
 ## Enforcement Procedures
 
@@ -115,21 +115,25 @@ If you are unsatisfied with the initial response or if the report involves a Cor
 Depending on the severity and nature of the violation, the following corrective actions may be taken:
 
 #### 1. Correction
+
 **Community Impact:** Use of inappropriate language or other behavior deemed unprofessional or unwelcome.
 
 **Consequence:** A private, written warning providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
 #### 2. Warning
+
 **Community Impact:** A violation through a single incident or series of actions.
 
 **Consequence:** A warning with consequences for continued behavior. No interaction with the people involved for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media.
 
 #### 3. Temporary Ban
+
 **Community Impact:** A serious violation of community standards, including sustained inappropriate behavior.
 
 **Consequence:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved is allowed during this period.
 
 #### 4. Permanent Ban
+
 **Community Impact:** Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence:** A permanent ban from any sort of public interaction within the community.
@@ -160,11 +164,11 @@ Retaliation includes any adverse action taken because someone has engaged in pro
 
 Individuals who believe they have been wrongfully accused or inappropriately sanctioned may appeal enforcement decisions by:
 
-1. Submitting a written appeal to [APPEALS_EMAIL] within 30 days of the decision
+1. Submitting a written appeal to <appeals@ossafrica.org> within 30 days of the decision
 2. Providing new information or evidence relevant to the case
 3. Explaining why they believe the decision was incorrect or disproportionate
 
-Appeals will be reviewed by [GOVERNANCE_BODY] or designated appeals committee members who were not involved in the original decision. The appeals process will be completed within 21 days, and the decision will be communicated in writing.
+Appeals will be reviewed by OSSAfrica SIG or designated appeals committee members who were not involved in the original decision. The appeals process will be completed within 21 days, and the decision will be communicated in writing.
 
 Final decisions on appeals rest with the designated governance authorities and are binding.
 
@@ -189,8 +193,8 @@ This Code of Conduct is adapted from widely adopted open source community standa
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | [TODO: Insert Date] | [TODO: Insert Author] | Initial Code of Conduct |
+| 1.0 | 2025-12-06 | OSSAfrica Core Team | Initial Code of Conduct |
 
 ---
 
-*For questions about this Code of Conduct, please contact [operations@ossafrica.org] or refer to our community governance documentation.*
+*For questions about this Code of Conduct, please contact <operations@ossafrica.org> or refer to our community governance documentation.*
