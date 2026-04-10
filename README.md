@@ -82,6 +82,7 @@ The repository is organized as follows:
   role-description-template.md
   meeting-notes-template.md
   weekly-leadership-check-in.md
+CHARTER.md
 CONTRIBUTING.md
 LICENSE
 README.md
@@ -107,6 +108,7 @@ Initial focus areas include:
 ## Getting Started
 
 * Read the governance framework in `docs/governance-framework.md`.
+* Read the governance charter in `CHARTER.md`.
 * Join the community Discord: **<https://discord.gg/xKaFkRGvxq>**
 * Participate in general community meetings
 * Contribute to governance documents
