@@ -69,6 +69,19 @@ Contributions to governance should reflect OSSAfrica’s values:
 * Respect for community processes
 * Alignment with organizational goals and oversight requirements
 
+## Official Channels
+
+Follow OSSAfrica for updates, events, and announcements:
+
+* [LinkedIn](https://www.linkedin.com/company/ossafrica)
+* [Instagram](https://www.instagram.com/ossafrica)
+* [X (Twitter)](https://x.com/ossafrica_org)
+* [Mastodon](https://mastodon.social/)
+* [Bluesky](https://ossafrica.bsky.social)
+* [TikTok](https://www.tiktok.com/@ossafrica)
+* [Substack](https://substack.com/@ossafrica)
+* [WhatsApp Channel](https://whatsapp.com/channel/0029VbCVG4U23n3omcL1U20u)
+
 ## Thank You
 
 Your contributions help OSSAfrica grow responsibly and transparently.

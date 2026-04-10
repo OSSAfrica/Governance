@@ -112,6 +112,19 @@ Initial focus areas include:
 * Propose new initiatives or improvements
 * Volunteer for roles or leadership positions
 
+## Community Channels
+
+Follow OSSAfrica channels for governance announcements and community updates:
+
+* LinkedIn: [OSSAfrica](https://www.linkedin.com/company/ossafrica)
+* Instagram: [@ossafrica](https://www.instagram.com/ossafrica)
+* X (Twitter): [@ossafrica_org](https://x.com/ossafrica_org)
+* Mastodon: [OSSAfrica](https://mastodon.social/)
+* Bluesky: [ossafrica.bsky.social](https://ossafrica.bsky.social)
+* TikTok: [@ossafrica](https://www.tiktok.com/@ossafrica)
+* Substack: [@ossafrica](https://substack.com/@ossafrica)
+* WhatsApp Channel: [OSSAfrica Channel](https://whatsapp.com/channel/0029VbCVG4U23n3omcL1U20u)
+
 We encourage everyone—beginners and experts alike—to take part in shaping OSSAfrica.
 
 ## **Licensing**
