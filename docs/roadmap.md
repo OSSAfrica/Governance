@@ -315,7 +315,7 @@ Community members can contribute to roadmap development through:
 3. **Community Calls:** Participate in quarterly roadmap review sessions
 4. **Direct Feedback:** Contact Core Team through established channels
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed contribution guidelines.
 
 ## Appendices
 

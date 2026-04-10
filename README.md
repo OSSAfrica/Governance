@@ -57,11 +57,12 @@ security research, educational programs, and regional or country-specific chapte
 
 ## Contents
 
-The repository is/should be organized as follows:
+The repository is organized as follows:
 
 ```markdown
 /docs
   governance-framework.md
+  current_leadership.md
   leadership-roles.md
   working-groups.md
   decision-making-process.md
@@ -105,7 +106,7 @@ Initial focus areas include:
 
 ## Getting Started
 
-* Read the governance framework in `/docs/governance-framework.md`.
+* Read the governance framework in `docs/governance-framework.md`.
 * Join the community Discord: **<https://discord.gg/xKaFkRGvxq>**
 * Participate in general community meetings
 * Contribute to governance documents

@@ -1,6 +1,3 @@
-
-# CONTRIBUTING.md
-
 # Contributing to OSSAfrica Governance
 
 Thank you for your interest in contributing to the OSSAfrica governance repository.
@@ -47,9 +44,10 @@ Volunteers and Core Team members can review proposals, suggest revisions, and ap
 
 1. **Fork the repository** and create a branch for your change.
 
-   ```
+   ```bash
    git checkout -b governance-update-topic
    ```
+
 2. Make edits to the relevant documents in the `/docs` directory.
 3. Open a pull request describing your changes, rationale, and references.
 4. Core Team members will review your PR. They may request revisions, clarification, or additional discussion.
